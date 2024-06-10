@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @navodnik
+- 👀 I’m interested in webdevelopment, programming
+- 🌱 I’m currently learning JS
+- 📫 How to reach me anzenavodnik@gmail.com
+- 😄 Pronouns: they don't exist
